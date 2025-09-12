@@ -4,4 +4,5 @@ basically it's just ai powered flashcards. instead of memorizing each specific w
 this can work for a variety of subjects but im just using it for psychology
 
 currently there are 46 words and the ui is absolute trash
+
 **please don't spam the ai, it needs 6 seconds before you can call it again, be patient and wait a few seconds a few seconds after you press space and the input field appears. I will add a cooldown timer to avoid spam later.**
